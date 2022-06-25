@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is creating a list of recipes demonstrated what I have learned thus far. Adding hypertext using "a href," adding images with "img src," and demonstrating how to do ordered lists and unordered lists.
